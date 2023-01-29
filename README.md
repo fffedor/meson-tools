@@ -38,7 +38,7 @@ chmod +x meson_setup.sh
 2. Specify variables and IP addresses in the script similar to the Meson (see above).
 3. Set execution permission and run the script
 ```
-chmod +x meson_setup.sh
+chmod +x gaga_install.sh
 chmod +x gaga_configure.sh
 ./gaga_install.sh
 ./gaga_configure.sh
